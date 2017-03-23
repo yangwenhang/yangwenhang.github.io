@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>一个分享前端知识的博客</title>
-  <subtitle>这里有我知识的总结和分享,也欢迎大家来跟我一起探讨交流~</subtitle>
+  <title>分享前端知识</title>
+  <subtitle>知识总结&amp;分享,欢迎一起交流~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
