@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-23T18:28:52.850Z</updated>
+  <updated>2017-03-23T19:17:45.343Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,17 @@
     <link href="http://yoursite.com/2017/03/24/test3/"/>
     <id>http://yoursite.com/2017/03/24/test3/</id>
     <published>2017-03-23T18:28:52.000Z</published>
-    <updated>2017-03-23T18:28:52.850Z</updated>
+    <updated>2017-03-23T19:17:45.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,</p>
+<p>防止每次通过Git部署后,自动删除readme文件和CNAME文件.</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,&lt;/p&gt;
+&lt;p&gt;防止每次通过Git部署后,自动删除readme文件和CNAME文件.&lt;/p&gt;
+
     
     </summary>
     
