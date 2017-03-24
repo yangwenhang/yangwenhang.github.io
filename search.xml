@@ -4,6 +4,14 @@
   
     
     <entry>
+      <title><![CDATA[test4]]></title>
+      <url>http://www.yang-wenhang.com/2017/03/24/test4/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[test3]]></title>
       <url>http://www.yang-wenhang.com/2017/03/24/test3/</url>
       <content type="html"><![CDATA[<p>主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,</p>
