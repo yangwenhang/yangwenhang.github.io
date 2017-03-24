@@ -4,71 +4,18 @@
   
     
     <entry>
-      <title><![CDATA[testtest]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/24/testtest/</url>
-      <content type="html"></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[testn]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/24/testn/</url>
-      <content type="html"></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test5]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/24/test5/</url>
-      <content type="html"></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test4]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/24/test4/</url>
-      <content type="html"></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test3]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/24/test3/</url>
-      <content type="html"><![CDATA[<p>主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,</p>
-<p>防止每次通过Git部署后,自动删除readme文件和CNAME文件.</p>
+      <title><![CDATA[Github访问速度提升的简单办法]]></title>
+      <url>http://www.yang-wenhang.com/2017/03/24/Github%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87%E7%9A%84%E7%AE%80%E5%8D%95%E5%8A%9E%E6%B3%95/</url>
+      <content type="html"><![CDATA[<p><strong>在这里跟各位分享一个提升Github访问速度的简单办法:</strong><br><strong>1.记事本打开:</strong><br>C:\Windows\System32\drivers\etc\hosts<br><strong>2.最末尾添加两句话:</strong><br>151.101.72.249 <a href="https://link.zhihu.com/?target=http%3A//global-ssl.fastly.Net" target="_blank" rel="external">http://global-ssl.fastly.Net</a><br>192.30.253.112 <a href="https://link.zhihu.com/?target=http%3A//github.com" target="_blank" rel="external">http://github.com</a><br>添加完成后如下截图</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5135593-f48184d7650676d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"><br><strong>3.重新打开Github,试试速度是不是跟之前相比的访问速度飞起来了~</strong></p>
 ]]></content>
       
         
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test2]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/23/test2/</url>
-      <content type="html"></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/23/test/</url>
-      <content type="html"><![CDATA[<p>#test#</p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[杨文航的第一篇博客]]></title>
-      <url>http://www.yang-wenhang.com/2017/03/23/post%E6%9D%A8%E6%96%87%E8%88%AA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<p>#第一篇博客<br>这是我按照别人的教程,一步一步安装Git,Node,写出的第一篇博客.</p>
-<p>学到了很多小的知识点,对于Git有了很初步的认识</p>
-]]></content>
-      
+        <tags>
+            
+            <tag> Github </tag>
+            
+        </tags>
         
     </entry>
     

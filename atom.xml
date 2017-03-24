@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yang-wenhang.com/"/>
-  <updated>2017-03-24T09:56:47.639Z</updated>
+  <updated>2017-03-24T10:43:49.697Z</updated>
   <id>http://www.yang-wenhang.com/</id>
   
   <author>
@@ -16,136 +16,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>testtest</title>
-    <link href="http://www.yang-wenhang.com/2017/03/24/testtest/"/>
-    <id>http://www.yang-wenhang.com/2017/03/24/testtest/</id>
-    <published>2017-03-24T09:56:47.000Z</published>
-    <updated>2017-03-24T09:56:47.639Z</updated>
+    <title>Github访问速度提升的简单办法</title>
+    <link href="http://www.yang-wenhang.com/2017/03/24/Github%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87%E7%9A%84%E7%AE%80%E5%8D%95%E5%8A%9E%E6%B3%95/"/>
+    <id>http://www.yang-wenhang.com/2017/03/24/Github访问速度提升的简单办法/</id>
+    <published>2017-03-24T10:41:08.000Z</published>
+    <updated>2017-03-24T10:43:49.697Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testn</title>
-    <link href="http://www.yang-wenhang.com/2017/03/24/testn/"/>
-    <id>http://www.yang-wenhang.com/2017/03/24/testn/</id>
-    <published>2017-03-24T09:49:56.000Z</published>
-    <updated>2017-03-24T09:49:56.395Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test5</title>
-    <link href="http://www.yang-wenhang.com/2017/03/24/test5/"/>
-    <id>http://www.yang-wenhang.com/2017/03/24/test5/</id>
-    <published>2017-03-24T09:41:54.000Z</published>
-    <updated>2017-03-24T09:41:55.017Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test4</title>
-    <link href="http://www.yang-wenhang.com/2017/03/24/test4/"/>
-    <id>http://www.yang-wenhang.com/2017/03/24/test4/</id>
-    <published>2017-03-24T09:34:44.000Z</published>
-    <updated>2017-03-24T09:34:44.184Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test3</title>
-    <link href="http://www.yang-wenhang.com/2017/03/24/test3/"/>
-    <id>http://www.yang-wenhang.com/2017/03/24/test3/</id>
-    <published>2017-03-23T18:28:52.000Z</published>
-    <updated>2017-03-23T19:17:45.343Z</updated>
-    
-    <content type="html"><![CDATA[<p>主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,</p>
-<p>防止每次通过Git部署后,自动删除readme文件和CNAME文件.</p>
+    <content type="html"><![CDATA[<p><strong>在这里跟各位分享一个提升Github访问速度的简单办法:</strong><br><strong>1.记事本打开:</strong><br>C:\Windows\System32\drivers\etc\hosts<br><strong>2.最末尾添加两句话:</strong><br>151.101.72.249 <a href="https://link.zhihu.com/?target=http%3A//global-ssl.fastly.Net" target="_blank" rel="external">http://global-ssl.fastly.Net</a><br>192.30.253.112 <a href="https://link.zhihu.com/?target=http%3A//github.com" target="_blank" rel="external">http://github.com</a><br>添加完成后如下截图</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5135593-f48184d7650676d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"><br><strong>3.重新打开Github,试试速度是不是跟之前相比的访问速度飞起来了~</strong></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;主要是通过将readme文件和CNAME文件放进Hexo的source文件夹内,&lt;/p&gt;
-&lt;p&gt;防止每次通过Git部署后,自动删除readme文件和CNAME文件.&lt;/p&gt;
-
+      &lt;p&gt;&lt;strong&gt;在这里跟各位分享一个提升Github访问速度的简单办法:&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;1.记事本打开:&lt;/strong&gt;&lt;br&gt;C:\Windows\System32\drivers\etc\hosts&lt;br&gt;&lt;strong&gt;2.最末尾添加两句话
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>test2</title>
-    <link href="http://www.yang-wenhang.com/2017/03/23/test2/"/>
-    <id>http://www.yang-wenhang.com/2017/03/23/test2/</id>
-    <published>2017-03-23T10:42:38.000Z</published>
-    <updated>2017-03-23T10:42:38.238Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://www.yang-wenhang.com/2017/03/23/test/"/>
-    <id>http://www.yang-wenhang.com/2017/03/23/test/</id>
-    <published>2017-03-23T05:45:21.000Z</published>
-    <updated>2017-03-23T05:46:32.076Z</updated>
-    
-    <content type="html"><![CDATA[<p>#test#</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;#test#&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>杨文航的第一篇博客</title>
-    <link href="http://www.yang-wenhang.com/2017/03/23/post%E6%9D%A8%E6%96%87%E8%88%AA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://www.yang-wenhang.com/2017/03/23/post杨文航的第一篇博客/</id>
-    <published>2017-03-23T05:08:14.000Z</published>
-    <updated>2017-03-23T05:11:56.433Z</updated>
-    
-    <content type="html"><![CDATA[<p>#第一篇博客<br>这是我按照别人的教程,一步一步安装Git,Node,写出的第一篇博客.</p>
-<p>学到了很多小的知识点,对于Git有了很初步的认识</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;#第一篇博客&lt;br&gt;这是我按照别人的教程,一步一步安装Git,Node,写出的第一篇博客.&lt;/p&gt;
-&lt;p&gt;学到了很多小的知识点,对于Git有了很初步的认识&lt;/p&gt;
-
-    
-    </summary>
-    
+      <category term="Github" scheme="http://www.yang-wenhang.com/tags/Github/"/>
     
   </entry>
   
