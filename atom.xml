@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yang-wenhang.com/"/>
-  <updated>2017-03-24T10:44:53.760Z</updated>
+  <updated>2017-03-24T10:58:39.644Z</updated>
   <id>http://www.yang-wenhang.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.yang-wenhang.com/2017/03/24/Github%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87%E7%9A%84%E7%AE%80%E5%8D%95%E5%8A%9E%E6%B3%95/"/>
     <id>http://www.yang-wenhang.com/2017/03/24/Github访问速度提升的简单办法/</id>
     <published>2017-03-24T10:41:08.000Z</published>
-    <updated>2017-03-24T10:44:53.760Z</updated>
+    <updated>2017-03-24T10:58:39.644Z</updated>
     
     <content type="html"><![CDATA[<p><strong>在这里跟各位分享一个提升Github访问速度的简单办法:</strong><br><strong>1.记事本打开:</strong><br>C:\Windows\System32\drivers\etc\hosts<br><strong>2.最末尾添加两句话:</strong><br>151.101.72.249 <a href="https://link.zhihu.com/?target=http%3A//global-ssl.fastly.Net" target="_blank" rel="external">http://global-ssl.fastly.Net</a><br>192.30.253.112 <a href="https://link.zhihu.com/?target=http%3A//github.com" target="_blank" rel="external">http://github.com</a><br>添加完成后如下截图</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/5135593-f48184d7650676d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"><br><strong>3.重新打开Github,试试速度是不是跟之前相比的访问速度飞起来了~</strong></p>
@@ -31,6 +31,8 @@
       &lt;p&gt;&lt;strong&gt;在这里跟各位分享一个提升Github访问速度的简单办法:&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;1.记事本打开:&lt;/strong&gt;&lt;br&gt;C:\Windows\System32\drivers\etc\hosts&lt;br&gt;&lt;strong&gt;2.最末尾添加两句话
     
     </summary>
+    
+      <category term="教程" scheme="http://www.yang-wenhang.com/categories/%E6%95%99%E7%A8%8B/"/>
     
     
       <category term="Github" scheme="http://www.yang-wenhang.com/tags/Github/"/>
